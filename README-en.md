@@ -4,7 +4,7 @@
 
 BeerJS in Trondheim is an initiative from [BeerJS](https://github.com/beerjs).
 ***
-The idea of BeerJS is quite simple. JavaScript interested groups up, takes a beer or two, or three, and discuss JavaScript or something completely different together with likeminded people! From experience, it will be a good atmosphere when several developers groups up under the same roof. It will be room to have open conversations without one having to be quite-so formal. Though one is having a blast, it is still limits, of which you can find [Here](citizencodeofconduct.org).
+The idea of BeerJS is quite simple. JavaScript interested groups up, takes a beer or two, or three, and discuss JavaScript or something completely different together with likeminded people! From experience, it will be a good atmosphere when several developers groups up under the same roof. It will be room to have open conversations without one having to be quite-so formal. Though one is having a blast, it is still limits, of which you can find [Here](https://github.com/BartJS/organisering/blob/master/CodeOfConduct.md).
 
 We use Github Issues/Slack to discuss upcoming meetups, and you are happily welcomed to submit any proposals. That would be for example what types of meetups we will have.
 
