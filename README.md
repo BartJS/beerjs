@@ -37,4 +37,4 @@ Cheers! :beer: :beers:
 
 Even Stensberg <evenstensberg@gmail.com> 
 *** 
-Mikael Breivik <mikaelbre@gmail.com>
+Mikael Brevik <mikaelbre@gmail.com>
