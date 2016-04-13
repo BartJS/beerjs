@@ -4,7 +4,7 @@
 
 ***
 
-####Dato: Lørdag 9.juni
+####Dato: Lørdag 11.juni
 ####Klokkeslett: 1800-2000( + - )
 ####Sted: N/A
 
@@ -17,7 +17,7 @@ Etter det blir det fritt fram på organiseringssiden!
 
 ***
 
-####Dato: Lørdag 30.juni
+####Dato: Lørdag 25.juni
 ####Klokkeslett: N/A
 ####Sted: N/A
 
