@@ -10,15 +10,3 @@
 
 ####Beskrivelse: BeerJS sin andre meetup. Vi starter med å samle oss, etterfulgt av en oppsummering av nyheter om eventuelle ting som har skjedd med teknologi siden sist.
 Etter det blir det fritt fram på organiseringssiden!
-
-***
-
-#Side Meetup
-
-***
-
-####Dato: Lørdag 25.juni
-####Klokkeslett: N/A
-####Sted: N/A
-
-####Beskrivelse: Side event i regi av BartJS. Her blir BeerJS organisert som en slags "after-event" der dette starter rett etter en BartJS meetup.
