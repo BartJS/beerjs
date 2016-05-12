@@ -3,6 +3,10 @@
 ![alt tag](http://s18.postimg.org/ks9qddxd5/beart_JS.png)
 
 BeerJS i Trondheim er et initativ fra [BeerJS](https://github.com/beerjs).
+
+## NB 
+
+**BeerJS har blitt utsatt, se bort i fra Mai + Juni måned.**
 *** 
 Prinsippet bak BeerJS er ganske enkelt. JavaScript interesserte samler seg, tar seg en pint eller to, eller tre, og diskuterer JavaScript eller noe helt annet sammen med likesinnede landsmenn! Fra erfaring, blir det god stemning når flere utviklere samles under samme tak. Det blir rom for å ha åpne samtaler uten at man må være så alt for formel av seg. BeerJS handler om å hygge seg med med andre som har samme interessen for JavaScript, og for at alle skal føle seg velkommen og hygge seg har vi skrevet ned en [Code of Conduct](https://github.com/BartJS/organisering/blob/master/CodeOfConduct.md) som medlemmer forplikter seg til å følge.
 
